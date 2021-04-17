@@ -1,0 +1,32 @@
+.main__section {
+    text-align: center;
+    font-size: 50px;
+    flex: 0.5;
+}
+
+.section__type {
+    margin: 10px;
+    background-color: white;
+    color: orangered;
+    flex: 0.5;
+    opacity: 0.8;
+    padding: 10vh 0vh;
+    cursor: pointer;
+    align-items: flex-end;
+    transition-duration: 1s;
+    border-radius: 60px;
+}
+
+.section__type__active {
+    color: red;
+    opacity: 1;
+}
+
+.section__type:hover {
+    cursor: pointer;
+    background-color: white;
+    transition-duration: 1s;
+    color: red;
+    opacity: 1;
+    transition: opacity 2.0s fade-in;
+}

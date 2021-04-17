@@ -1,0 +1,44 @@
+.section__form {
+    background-color: white;
+    margin-top: 2vh;
+    border-radius: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 70vh;
+}
+
+.message {
+    width: auto !important;
+}
+
+.section__rasiDetails {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 58vh;
+}
+
+.section__details {
+    width: 60%;
+    padding-top: 30px;
+    margin: auto;
+}
+
+.section__form > .input {
+    margin-bottom: 20px;
+    position: sticky;
+    top: 0;
+}
+
+.section__greet {
+    font-size: 20px;
+    text-align: center;
+}
+
+.section__details > table {
+    margin-top: 10px;
+    border: none;
+    width: 100%;
+    outline: none;
+    text-align: center;
+    font-size: 17px;
+}
