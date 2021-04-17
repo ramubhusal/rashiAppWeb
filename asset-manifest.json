@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rashiApp/static/css/main.34800a75.chunk.css",
+    "main.css": "/rashiApp/static/css/main.4ac59f81.chunk.css",
     "main.js": "/rashiApp/static/js/main.eda9bcc6.chunk.js",
     "main.js.map": "/rashiApp/static/js/main.eda9bcc6.chunk.js.map",
     "runtime-main.js": "/rashiApp/static/js/runtime-main.f6991256.js",
@@ -12,7 +12,7 @@
     "static/js/3.1c0846ec.chunk.js.map": "/rashiApp/static/js/3.1c0846ec.chunk.js.map",
     "index.html": "/rashiApp/index.html",
     "static/css/2.1873de18.chunk.css.map": "/rashiApp/static/css/2.1873de18.chunk.css.map",
-    "static/css/main.34800a75.chunk.css.map": "/rashiApp/static/css/main.34800a75.chunk.css.map",
+    "static/css/main.4ac59f81.chunk.css.map": "/rashiApp/static/css/main.4ac59f81.chunk.css.map",
     "static/js/2.4078b4dc.chunk.js.LICENSE.txt": "/rashiApp/static/js/2.4078b4dc.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/rashiApp/static/media/outline-icons.ddae9b1b.woff",
     "static/media/App.css": "/rashiApp/static/media/mainBg.8563915b.jpg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.f6991256.js",
     "static/css/2.1873de18.chunk.css",
     "static/js/2.4078b4dc.chunk.js",
-    "static/css/main.34800a75.chunk.css",
+    "static/css/main.4ac59f81.chunk.css",
     "static/js/main.eda9bcc6.chunk.js"
   ]
 }
